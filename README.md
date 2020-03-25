@@ -6,8 +6,6 @@
 
 ![](https://i.imgur.com/t4VArGN.gif)
 
-
-
 ## Light backgrounds / white cards
 
 * [https://www.urbanclap.com/bangalore](https://www.urbanclap.com/bangalore) \(mobile site, white cards on light bg\)
