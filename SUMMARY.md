@@ -1,5 +1,6 @@
 # Table of contents
 
-* [Design Inspiration](README.md)
+* [Cards Examples](README.md)
 * [Design Checklist](design-checklist.md)
+* [States](states.md)
 
